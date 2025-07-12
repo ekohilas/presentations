@@ -1,0 +1,16 @@
+{
+  "presentations": [
+    {
+      "title": "Who Tests the Testers? Making and Testing Pipelines",
+      "event_name": "PyCon US",
+      "location": "Pittsburgh, PA, USA",
+      "date": "2025-05-16",
+      "length": "30 minutes",
+      "conference_link": "https://us.pycon.org/2025",
+      "slide_link": "https://who-tests-the-testers.nohumanerrors.com/pycon-us-2025/",
+      "video_link": "https://www.youtube.com/watch?v=DhognqFaRow",
+      "session_link": "https://us.pycon.org/2025/schedule/presentation/28/",
+      "repository_link": "https://github.com/ekohilas/who-tests-the-testers"
+    }
+  ]
+}
