@@ -11,6 +11,66 @@
       "video_link": "https://www.youtube.com/watch?v=DhognqFaRow",
       "session_link": "https://us.pycon.org/2025/schedule/presentation/28/",
       "repository_link": "https://github.com/ekohilas/who-tests-the-testers"
+    },
+    {
+      "title": "Args: Amazing or Approaching?",
+      "event_name": "Canberra Python User Group",
+      "location": "",
+      "date": "2025-01-01",
+      "length": "30 minutes",
+      "event_link": "https://www.meetup.com/canberra-python-meetup-group/",
+      "slide_link": "https://ekohilas.github.io/args-amazing-or-approaching/canberra-python-2025",
+      "video_link": "https://youtube.com/watch?v=xH2qPTn2ybk",
+      "session_link": "https://www.meetup.com/canberra-python-meetup-group/events/305683255/?eventOrigin=home_next_event_you_are_hosting",
+      "repository_link": ""
+    },
+    {
+      "title": "Args: Amazing or Approaching? (Lightning Talk)",
+      "event_name": "PyCon US",
+      "location": "",
+      "date": "2025-05-16",
+      "length": "5 minutes",
+      "event_link": "https://us.pycon.org",
+      "slide_link": "https://ekohilas.github.io/args-amazing-or-approaching/pycon-us-2025-lightning",
+      "video_link": "https://youtu.be/lXngPPRaqGg?t=315",
+      "session_link": "https://us.pycon.org/2025",
+      "repository_link": ""
+    },
+    {
+      "title": "Who Tests the Testers?",
+      "event_name": "PyCon AU",
+      "location": "",
+      "date": "2024-08-01",
+      "length": "30 minutes",
+      "event_link": "https://2024.pycon.org.au",
+      "slide_link": "https://ekohilas.github.io/who-tests-the-testers/pycon-au-2024",
+      "video_link": "https://www.youtube.com/watch?v=ilfLFBacNj4",
+      "session_link": "https://2024.pycon.org.au/program/NUUJAN",
+      "repository_link": ""
+    },
+    {
+      "title": "Who Tests the Testers?",
+      "event_name": "PyCon US",
+      "location": "",
+      "date": "2025-05-16",
+      "length": "30 minutes",
+      "event_link": "https://us.pycon.org/2025",
+      "slide_link": "https://ekohilas.github.io/who-tests-the-testers/pycon-us-2025",
+      "video_link": "https://www.youtube.com/@PyConUS/videos",
+      "session_link": "https://us.pycon.org/2025/schedule/presentation/28/",
+      "repository_link": ""
+    },
+    {
+      "title": "Refactoring for Fun and Profit",
+      "event_name": "PyCon Australia",
+      "location": "",
+      "date": "2023-08-01",
+      "length": "30 minutes",
+      "event_link": "https://2023.pycon.org.au/",
+      "slide_link": "https://ekohilas.github.io/refactoring-for-fun-and-profit/pycon-au-2023",
+      "video_link": "https://www.youtube.com/watch?v=9wgJhT8HpiA",
+      "session_link": "https://2023.pycon.org.au/program/LCM73Z/",
+      "repository_link": ""
     }
   ]
 }
