@@ -59,6 +59,78 @@
       "video_link": "https://www.youtube.com/watch?v=9wgJhT8HpiA",
       "session_link": "https://2023.pycon.org.au/program/LCM73Z/",
       "repository_link": "https://github.com/ekohilas/refactoring-for-fun-and-profit"
+    },
+    {
+      "title": "Refactoring for Fun and Profit",
+      "event_name": "Kiwi PyCon",
+      "location": "Invercargill, New Zealand",
+      "date": "2023-09-16",
+      "length": "45 minutes",
+      "event_link": "https://kiwipycon.nz/",
+      "slide_link": "https://ekohilas.github.io/refactoring-for-fun-and-profit/kiwi-pycon-2023",
+      "video_link": "https://www.youtube.com/watch?v=yiU-t2jldEk",
+      "session_link": "https://pretalx.com/kiwi-pycon-xii-2023/talk/QEENX9/",
+      "repository_link": "https://github.com/ekohilas/refactoring-for-fun-and-profit"
+    },
+    {
+      "title": "Python ate my Homework!",
+      "event_name": "PyCon APAC",
+      "location": "Tokyo, Japan",
+      "date": "2023-10-27",
+      "length": "15 minutes",
+      "event_link": "https://2023-apac.pycon.jp/",
+      "slide_link": "https://github.com/ekohilas/python-ate-my-homework/blob/main/python_ate_my_homework_pycon_apac_2023.ipynb",
+      "video_link": "https://www.youtube.com/watch?v=RvPjFTwXWTI&t=22129s",
+      "session_link": "https://2023-apac.pycon.jp/timetable?id=WQREM9",
+      "repository_link": "https://github.com/ekohilas/python-ate-my-homework"
+    },
+    {
+      "title": "Python ate my Homework!",
+      "event_name": "PyCon US",
+      "location": "Pittsburgh, PA, USA",
+      "date": "2024-05-17",
+      "length": "30 minutes",
+      "event_link": "https://us.pycon.org/2024/",
+      "slide_link": "https://github.com/ekohilas/python-ate-my-homework/blob/main/python_ate_my_homework_pycon_us_2024.ipynb",
+      "video_link": "https://www.youtube.com/watch?v=hayjfJVtWIw",
+      "session_link": "https://us.pycon.org/2024/schedule/presentation/17/",
+      "repository_link": "https://github.com/ekohilas/python-ate-my-homework"
+    },
+    {
+      "title": "SVGs, Lasers, Reality, and You",
+      "event_name": "North Bay Python",
+      "location": "Petaluma, CA, USA",
+      "date": "2023-07-30",
+      "length": "25 minutes",
+      "event_link": "https://2023.northbaypython.org/",
+      "slide_link": "https://www.canva.com/design/DAF1OgfPC6s/54eJLnF9mqdzigKHOnHNeA/view",
+      "video_link": "https://youtu.be/XQZAeP_Loyg",
+      "session_link": "https://pretalx.northbaypython.org/nbpy-2023/talk/XB7UTZ/",
+      "repository_link": "https://github.com/ekohilas/card-resources"
+    },
+    {
+      "title": "Vitest Considered Harmful",
+      "event_name": "SydJS",
+      "location": "Sydney, NSW, Australia",
+      "date": "2024-06-26",
+      "length": "45 minutes",
+      "event_link": "https://sydjs.com/",
+      "slide_link": "https://github.com/ekohilas/vitest-considered-harmful/branches/all",
+      "video_link": "https://youtu.be/SJG8dSn22rw",
+      "session_link": "https://www.meetup.com/sydjs-classic/events/294863990/",
+      "repository_link": "https://github.com/ekohilas/vitest-considered-harmful/blob/main/README.md"
+    },
+    {
+      "title": "Maintainers Summit",
+      "event_name": "PyCon US",
+      "location": "Pittsburgh, PA, USA",
+      "date": "2024-05-17",
+      "length": "10 minutes",
+      "event_link": "https://us.pycon.org/2024/",
+      "slide_link": "https://docs.google.com/presentation/d/1nCjimJxmyiLS6Ex1cqlNPt9bdIRAkgOTpclhsSLzAR0/edit?usp=sharing",
+      "video_link": "",
+      "session_link": "https://us.pycon.org/2024/events/maintainers-summit/",
+      "repository_link": "https://github.com/ekohilas/helping-hands-maintainers-dont-grasp"
     }
   ]
 }
