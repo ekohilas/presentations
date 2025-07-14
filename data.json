@@ -131,6 +131,42 @@
       "video_link": "",
       "session_link": "https://us.pycon.org/2024/events/maintainers-summit/",
       "repository_link": "https://github.com/ekohilas/helping-hands-maintainers-dont-grasp"
+    },
+    {
+      "title": "Hacking Playable Ads: What REALLY are they?",
+      "event_name": "Linux Conf Australia",
+      "location": "Gold Coast, QLD, Australia",
+      "date": "2020-01-16",
+      "length": "45 minutes",
+      "event_link": "https://lca2020.linux.org.au/",
+      "slide_link": "",
+      "video_link": "https://www.youtube.com/watch?v=euG2yr2nXO4",
+      "session_link": "https://web.archive.org/web/20200812083335/https://lca2020.linux.org.au/schedule/presentation/102/",
+      "repository_link": "https://github.com/ekohilas/playable-ads"
+    },
+    {
+      "title": "Hacking Playable Ads: What REALLY are they?",
+      "event_name": "PyCon AU",
+      "location": "Online",
+      "date": "2020-09-04",
+      "length": "30 minutes",
+      "event_link": "https://2020.pycon.org.au/",
+      "slide_link": "",
+      "video_link": "https://www.youtube.com/watch?v=c5QIPbrk92Q",
+      "session_link": "https://2020.pycon.org.au/program/8TA7ZA/",
+      "repository_link": "https://github.com/ekohilas/playable-ads"
+    },
+    {
+      "title": "Hacking Playable Ads: What REALLY are they?",
+      "event_name": "Technically Games",
+      "location": "Melbourne, VIC, Australia",
+      "date": "2020-11-21",
+      "length": "30 minutes",
+      "event_link": "https://2020.technicallygames.com.au/",
+      "slide_link": "",
+      "video_link": "https://www.youtube.com/watch?v=ROJKVGj_mYc",
+      "session_link": "https://2020.technicallygames.com.au/talks/hacking-playable-ads-what-really-are-they/",
+      "repository_link": "https://github.com/ekohilas/playable-ads"
     }
   ]
 }
