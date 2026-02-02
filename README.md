@@ -7,6 +7,7 @@ If you would like me to speak at your event, please get in touch!
 
 | Title | Event | Location | Date | Length | Links |
 | --- | --- | --- | --- | --- | --- |
+| Excited Developer Syndrome | Canberra, ACT, Australia | 2025-01-21 | 45 minutes | [🎞️]() [📺](https://www.youtube.com/@ekohilas) [ℹ️](https://2026.everythingopen.au/schedule/presentation/27/) [🗃️]() |
 | How to Eat Fruit | [PyCon AU](https://2025.pycon.org.au/) | Melbourne, VIC, Australia | 2025-09-14 | 5 minutes | [🎞️]() [📺](https://www.youtube.com/@ekohilas) [ℹ️](https://2025.pycon.org.au/program/3DDRNQ/) [🗃️]() |
 | Args: Amazing or Approaching? | [PyCon AU](https://2025.pycon.org.au/) | Melbourne, VIC, Australia | 2025-09-13 | 30 minutes | [🎞️](https://args-amazing-or-approaching.nohumanerrors.com/pycon-au-2025/) [📺](https://www.youtube.com/@ekohilas) [ℹ️](https://2025.pycon.org.au/program/B38QTB/) [🗃️](https://github.com/ekohilas/args-amazing-or-approaching) |
 | Args: Amazing or Approaching? | [PyCon US](https://us.pycon.org/2025) | Pittsburgh, PA, USA | 2025-05-18 | 5 minutes | [🎞️](https://ekohilas.github.io/args-amazing-or-approaching/pycon-us-2025-lightning) [📺](https://youtu.be/lXngPPRaqGg?t=315) [ℹ️](https://us.pycon.org/2025/schedule/presentation/172/) [🗃️](https://github.com/ekohilas/args-amazing-or-approaching) |
